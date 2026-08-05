@@ -12,7 +12,7 @@ print(f"union using (|) or operator is {a|b} ")
 res_2= a.intersection(b)
 
 #method 1
-print(f"Intersection of and b is {res}")
+print(f"Intersection of a and b is {res_2}")
 #method 2
 print(f"Intersection using (&) and operator {a&b}")
 
